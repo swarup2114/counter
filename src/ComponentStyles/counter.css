@@ -1,0 +1,22 @@
+.counter-data{
+   color: #707ccc;
+   text-align: center;
+}
+.counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px
+}
+.counter-container button{
+    width: 35px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.positive-val{
+    color: green;
+}
+.negitive-val{
+    color: red;
+}
